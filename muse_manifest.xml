@@ -1,0 +1,103 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Thom_Chaplin.com" resolutions="1x" timestamp="1548824371222">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="296647853" ref="index"/>
+    <file name="nomq_index.css" crc="4061482256" ref="index"/>
+    <file name="inicio.css" crc="4284277855" ref="inicio"/>
+    <file name="nomq_inicio.css" crc="340463115" ref="inicio"/>
+    <file name="biografia.css" crc="4153908990" ref="biografia"/>
+    <file name="nomq_biografia.css" crc="453927511" ref="biografia"/>
+    <file name="concepto.css" crc="73847632" ref="concepto"/>
+    <file name="nomq_concepto.css" crc="430476661" ref="concepto"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:inicio:biografia:concepto"/>
+    <file name="museutils.js" crc="3803043152" ref="index:inicio:biografia:concepto"/>
+    <file name="whatinput.js" crc="86476730" ref="index:inicio:biografia:concepto"/>
+    <file name="museconfig.js" crc="380897831" ref="index:inicio:biografia:concepto"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:inicio:biografia:concepto"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:inicio:biografia:concepto"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:inicio:biografia:concepto"/>
+    <file name="require.js" crc="4157109226" ref="index:inicio:biografia:concepto"/>
+  </folder>
+  <folder name="images">
+    <file name="entrar_1.png" crc="3872460993" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mesa de trabajo 1-100.jpg" crc="452487626" ref="index:inicio:biografia:concepto">
+      <caption webpage="index" alt=""/>
+      <caption webpage="concepto" alt=""/>
+      <caption webpage="inicio" alt=""/>
+      <caption webpage="biografia" alt=""/>
+    </file>
+    <file name="mesa de trabajo 1-100640x324.jpg" crc="293045021" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:inicio:biografia:concepto"/>
+    <file name="inicio.png" crc="3829410182" seo="true" ref="inicio:biografia:concepto">
+      <caption webpage="concepto" alt=""/>
+      <caption webpage="concepto" alt=""/>
+      <caption webpage="inicio" alt=""/>
+      <caption webpage="inicio" alt=""/>
+      <caption webpage="biografia" alt=""/>
+      <caption webpage="biografia" alt=""/>
+    </file>
+    <file name="biografia.png" crc="4278676455" seo="true" ref="inicio:biografia:concepto">
+      <caption webpage="concepto" alt=""/>
+      <caption webpage="concepto" alt=""/>
+      <caption webpage="inicio" alt=""/>
+      <caption webpage="inicio" alt=""/>
+      <caption webpage="biografia" alt=""/>
+      <caption webpage="biografia" alt=""/>
+    </file>
+    <file name="concepto.png" crc="409205911" seo="true" ref="inicio:biografia:concepto">
+      <caption webpage="concepto" alt=""/>
+      <caption webpage="concepto" alt=""/>
+      <caption webpage="inicio" alt=""/>
+      <caption webpage="inicio" alt=""/>
+      <caption webpage="biografia" alt=""/>
+      <caption webpage="biografia" alt=""/>
+    </file>
+    <file name="u699-4.png" crc="211134260" ref="inicio"/>
+    <file name="u597-4.png" crc="4063588909" ref="inicio"/>
+    <file name="u634-4.png" crc="527511719" ref="inicio"/>
+    <file name="u612-4.png" crc="204252525" ref="inicio"/>
+    <file name="0060256709268_600.jpg" crc="4119389436" seo="true" ref="inicio">
+      <caption webpage="inicio" alt=""/>
+      <caption webpage="inicio" alt=""/>
+    </file>
+    <file name="u625-4.png" crc="4150848327" ref="inicio"/>
+    <file name="recurso 9.png" crc="3974110066" seo="true" ref="inicio">
+      <caption webpage="inicio" alt=""/>
+    </file>
+    <file name="u637-16.png" crc="3963030083" ref="inicio"/>
+    <file name="u699-42.png" crc="3795245488" ref="inicio"/>
+    <file name="u597-42.png" crc="3835324235" ref="inicio"/>
+    <file name="u634-42.png" crc="4105375062" ref="inicio"/>
+    <file name="u612-42.png" crc="3975348557" ref="inicio"/>
+    <file name="u625-42.png" crc="3826955048" ref="inicio"/>
+    <file name="recurso 995x102.png" crc="4200265625" seo="true" ref="inicio">
+      <caption webpage="inicio" alt=""/>
+    </file>
+    <file name="u637-162.png" crc="51248712" ref="inicio"/>
+    <file name="u706-4.png" crc="211134260" ref="biografia"/>
+    <file name="1498089958-thewave300cmyk-crop-u533.jpg" crc="276228950" seo="true" ref="biografia">
+      <caption webpage="biografia" alt=""/>
+    </file>
+    <file name="u519-27.png" crc="213753172" ref="biografia"/>
+    <file name="u706-42.png" crc="3795245488" ref="biografia"/>
+    <file name="1498089958-thewave300cmyk-crop-u5332.jpg" crc="437273301" seo="true" ref="biografia">
+      <caption webpage="biografia" alt=""/>
+    </file>
+    <file name="u519-272.png" crc="185401792" ref="biografia"/>
+    <file name="u546-14.png" crc="3872056995" ref="concepto"/>
+    <file name="u715-4.png" crc="211134260" ref="concepto"/>
+    <file name="u546-142.png" crc="4227173351" ref="concepto"/>
+    <file name="u715-42.png" crc="3795245488" ref="concepto"/>
+  </folder>
+  <file name="index.html" crc="37011606" seo="true" mt="1548813645410" redirect="true"/>
+  <file name="inicio.html" crc="3987221096" seo="true" mt="1548823742998" redirect="true"/>
+  <file name="biografia.html" crc="4007203265" seo="true" mt="1548820347910" redirect="true"/>
+  <file name="concepto.html" crc="4141669164" seo="true" mt="1548820356405" redirect="true"/>
+</manifest>
